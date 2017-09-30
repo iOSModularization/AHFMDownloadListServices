@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AHFMDownloadListServices_Example' do
+  pod 'AHFMDownloadListServices', :path => '../'
+
+  target 'AHFMDownloadListServices_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
