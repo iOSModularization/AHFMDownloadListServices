@@ -1,0 +1,6 @@
+framework module Pods_AHFMDownloadListServices_Tests {
+  umbrella header "Pods-AHFMDownloadListServices_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
